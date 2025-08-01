@@ -5,6 +5,10 @@
 This repository contains the implementation of a real-time sign language detection system designed to enhance communication accessibility for deaf and hearing-impaired individuals. The system leverages a customized **YOLOv8** architecture integrated with an **InceptionV3 CNN** model and is trained on a specialized, annotated sign language dataset.
 
 ---
+## Methodology:
+
+<img width="3426" height="654" alt="Methodology" src="https://github.com/user-attachments/assets/11e1cdb6-0d64-4778-bbfc-91aeb1fe8e9e" />
+
 
 ## Abstract
 
