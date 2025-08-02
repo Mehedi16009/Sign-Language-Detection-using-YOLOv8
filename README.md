@@ -47,3 +47,11 @@ sign-language-detection-yolov8/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+# Contact:
+Md. Mehedi Hasan
+Prospective Ph.D. Student
+Lecturer, Dept. of Computer Science & Engineering
+Global Institute of Information Technology (GIIT), Bangladesh.
+📧 mehedi.hasan.ict@mbstu.ac.bd | mehedi.hasan.ict13@gmail.com
+📞 +880 1789 113 669 | +880 1334 110 929
+🌐 [Personal Portfolio Website](https://md-mehedi-hasan-resume.vercel.app/)
