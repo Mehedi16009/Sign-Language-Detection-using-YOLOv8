@@ -27,7 +27,7 @@ This study addresses this gap by developing a highly accurate and real-time sign
 
 These metrics outperform previous models trained on smaller or non-specialized datasets and demonstrate practical real-time use.
 
-DATASET LINK: https://app.roboflow.com/computer-vision-by-mehedi/sign-language-kqyow/models/sign-language-kqyow/2
+Our Tailor DATASET: [LINK](https://app.roboflow.com/computer-vision-by-mehedi/sign-language-kqyow/models/sign-language-kqyow/2)
 ---
 
 ## 📂 Project Structure
