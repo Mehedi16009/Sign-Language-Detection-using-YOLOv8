@@ -3,8 +3,9 @@
 ### A Customized YOLOv8 Approach with Tailored Annotations in Computer Vision
 
 This repository contains the implementation of a real-time sign language detection system designed to enhance communication accessibility for deaf and hearing-impaired individuals. The system leverages a customized **YOLOv8** architecture integrated with an **InceptionV3 CNN** model and is trained on a specialized, annotated sign language dataset.
+---
 
- Paper Published on 7th October 2025: BMC Artificial Intelligence Journal (Q1 Open Access Journal). Paper [LINK]([https://youtu.be/ynO_RJ7AY1o?si=OqJDRDFr_02xbKe3](https://link.springer.com/article/10.1186/s44398-025-00010-9))
+ Paper Published on 7th October 2025: BMC Artificial Intelligence Journal (Q1 Open Access Journal). Paper [LINK](https://link.springer.com/article/10.1186/s44398-025-00010-9)
  
  Real-Time Detection: My Youtube [LINK](https://youtu.be/ynO_RJ7AY1o?si=OqJDRDFr_02xbKe3)
 ---
