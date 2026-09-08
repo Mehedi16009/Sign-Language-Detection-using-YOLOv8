@@ -60,11 +60,11 @@ sign-language-detection-yolov8/
 
 # Contact:
 Md. Mehedi Hasan <br>
-Ph.D. Student in Informatics and Computing
-at Northern Arizona University
+Ph.D. Student in Informatics and Computing <br>
+at Northern Arizona University, USA. 
 
-Senior Lecturer, Dept. of Computer Science & Engineering
-Global Institute of Information Technology (GIIT), Bangladesh.
-📧 mh3686@nau.edu | mehedi.hasan.ict13@gmail.com
+Senior Lecturer, Dept. of Computer Science & Engineering <br>
+Global Institute of Information Technology (GIIT), Bangladesh. <br>
+📧 mh3686@nau.edu | mehedi.hasan.ict13@gmail.com <br>
 📞 +880 1789 113 669 | +880 1334 110 929
 🌐 [Personal Portfolio Website](https://md-mehedi-hasan-resume.vercel.app/)
