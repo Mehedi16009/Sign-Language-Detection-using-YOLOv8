@@ -1,5 +1,5 @@
-# Advancing Real-Time Sign Language Detection for Deaf and Hearing-Impaired Communities
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.22628)
+# Advancing real-time sign language detection for deaf and hearing-impaired communities: a customized YOLOv8 approach with tailored annotations in computer vision
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)](https://pytorch.org/)
