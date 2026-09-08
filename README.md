@@ -59,7 +59,7 @@ sign-language-detection-yolov8/
 ```
 
 # Contact:
-Md. Mehedi Hasan
+Md. Mehedi Hasan <br>
 Ph.D. Student in Informatics and Computing
 at Northern Arizona University
 
